@@ -1,0 +1,22 @@
+.headContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color:#EAF1F9;
+    padding:1px 24px;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+.linkcon{
+    display: flex;
+}
+.headTe{
+    color: blue;
+}
+.plink{
+    margin: 10px 15px;
+    color: blue;
+    outline: none;
+    font-size: 18px;
+    margin-top: 50px;
+}

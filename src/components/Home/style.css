@@ -1,0 +1,33 @@
+.homecon{
+    height: 50vh;
+    padding: 3px 28px;
+    width: 60vw;
+    background-color: #D0D1D3;
+    padding-bottom: 60px;
+    margin-top: 50px;
+    border-radius: 12px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    font-family: "Roboto";
+    color: blue;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.namep{
+    font-size: 35px;
+}
+button{
+    background-color: blue;
+    color: #ffffff;
+    padding: 8px 22px;
+    margin-top: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+}

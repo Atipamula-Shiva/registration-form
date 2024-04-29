@@ -1,0 +1,43 @@
+.formcon{
+    height: 60vh;
+    padding: 3px 28px;
+    width: 40vw;
+    background-color: #D0D1D3;
+    padding-bottom: 60px;
+    margin-top: 50px;
+    border-radius: 12px;
+    margin: 100px auto;
+}
+.title{
+    color: blue;
+    font-size: 28px;
+    font-family: "Roboto";
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 15px;
+}
+.inputCon{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 18px;
+    
+}
+.inputClass{
+    border-radius: 5px;
+    padding: 2px 4px;
+}
+.button{
+    padding: 8px 20px;
+    color: #ffffff;
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: -45px;
+}
+p{
+    font-size: 15px;
+    margin-top: 5px;
+}
+span{
+    font-weight: bold;
+}
